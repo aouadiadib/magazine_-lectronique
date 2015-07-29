@@ -1,0 +1,67 @@
+<a class="example-image-link" href="images/arch1.png" data-lightbox="example-2" data-title="Residance NEPTUNE"><img class="example-image" src="images/arch1.png" alt="image-1"  height="100" /></a>
+
+
+
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Karla%7CMontserrat">
+	<link rel="stylesheet" href="css/screen.css">
+	<link rel="stylesheet" href="css/lightbox.css">
+
+
+<div class="main">
+	 <div class="wrap">
+		<div class="about">
+				<div class="about-top">
+					<div class="col span_1_of_about">
+							<h3>Residence Nepturne</h3><br><br>
+							<div class="about-img">
+								<img src="images/nepturne.png"  height="200" alt="">
+							</div>
+							<div class="about-desc">
+								<p>Les études architecturales et techniques ont été mûrement et laborieusement réalisées par une sélection de Bureaux d’Etudes avec le souci de conjuguer harmonieusement sécurité, confort, fonctionnalité et respect de l’environnement. Le contrôle technique est assuré par la Société Tunisienne de Contrôle Medcontrol.
+Les plans d’architecture ont été approuvés par la municipalité du l’Ariana.
+L’ensemble résidentiel se présente comme suit 
+<br>
+- Trois blocs sont organisés autour d’un patio central à partir duquel ils sont accessibles. Ce patio sera agrémenté par de la verdure et des bacs à fleurs ;
+<br>
+- Au niveau du R.D.C, la plupart des logements situés à la périphérie de l’immeuble disposent de jardins privatifs et de terrasses non couvertes.
+<br>
+- La disposition architecturale adoptée offre la meilleure orientation possible pour les logements et optimise les parties communes .
+
+</p>
+<br><br>
+<p>L’ensemble résidentiel sera muni des équipements communs suivants :
+<br> Une loge gardien et un local syndic.
+<br> Des paraboles collectives permettant d’offrir un maximum de programmes. Les acquéreurs devront, cependant, installer à leurs frais leurs propres récepteurs pour capter ces programmes.
+<br> Un parking au sous-sol doté d’un système de protection et de détection incendie.</p>
+								</div>
+							<div class="clear"></div>
+					</div>
+					<div class="col span_1_of_about1">
+						<h3>Construction d'un Immeuble R+4
+A Usage Habitation
+Sise à lotissement Jinen Ennasr II
+Ariana</h3>
+				</div>
+					<div class="clear"></div>
+			</div>
+			  <div class="clear"> </div>
+				
+					</div>
+			  </div>
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo "<font color='red'><b>Contact poser avec succées </b></font><br><br><br>";

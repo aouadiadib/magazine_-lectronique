@@ -1,0 +1,36 @@
+body { text-align: center; }
+h1 { color: #0c5f7d; }
+nav table { width: 300px; margin-right: auto; margin-left: auto; text-align: center; }
+nav a { text-decoration: none; font-size: 18px; line-height: 30px; color: #400404; vertical-align: middle; -webkit-transition: all 0.2s; -moz-transition: all 0.2s;	transition: all 0.2s; }
+nav a:hover { font-size: 19px; }
+nav a:active { font-size: 18px; }
+.color1 { background: #f06060; }
+.color2 { background: #4593e3; }
+form h1 { font-size: 21px; }
+form label { line-height: 180%; }
+form select { margin-top: 5px; margin-bottom: 5px; }
+form input { margin-top: 3px; margin-bottom: 3px; }
+form .hidden { display: none; }
+form { width: 90%; margin-left: auto; margin-right: auto; }
+table { width: 100%; margin-left: auto; margin-right: auto; text-align:left; }
+table .col1 { text-align: right; }
+table .hidden { display: none; }
+table p { display: inline; font-size: 0.8em; color: blue; }
+.go_back { text-decoration: none; }
+.go_back:hover { text-decoration: underline; }
+.search { width: 300px; border: solid black 1px; padding: 5px; }
+.produits { border-collapse: collapse; margin-top: 10px; }
+.produits td, th { border: solid black 1px; padding: 5px; }
+.produits th { text-align: center; height: 18px; background: #2C75FF;}
+.produits td { vertical-align: top; }
+input[type=submit] {padding:5px 15px; background:#209D9D; border:0 none;
+cursor:pointer;
+color: white;
+-webkit-border-radius: 5px;
+border-radius: 5px; }
+
+input[type=reset] {padding:5px 15px; background:#209D9D; border:0 none;
+cursor:pointer;
+  color: white;
+-webkit-border-radius: 5px;
+border-radius: 5px; }
